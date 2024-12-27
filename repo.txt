@@ -1,0 +1,6 @@
+/meu-repositorio
+│
+├── index.php
+├── uploads/
+│   ├── images/ (para imagens)
+│   └── docs/ (para documentos)
